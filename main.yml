@@ -1,5 +1,5 @@
         
-- hosts: all
+- hosts: 10.87.3.47
   become: true
   become_user: root
   gather_facts: false
